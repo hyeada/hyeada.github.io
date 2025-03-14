@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hyeada.csgad.com/egJ/sitemap.xml.gz
